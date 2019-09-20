@@ -56,7 +56,7 @@ import be.tarsos.dsp.util.fft.FFT;
 public class AdvancedAudioPlayer extends JFrame {
 
 	/**
-	 *  rubbish comment
+	 *
 	 */
 	private static final long serialVersionUID = -4000269621209901229L;
 	
